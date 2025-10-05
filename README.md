@@ -1,5 +1,11 @@
 # Financial Statement Extract & Transform — README
 
+
+https://github.com/user-attachments/assets/bd2aebec-13b7-43db-b796-2fa989f5ced7
+
+
+
+
 A small full-stack app to:
 
 1. **Extract** holdings & transactions from a PDF statement using Google Gemini,
